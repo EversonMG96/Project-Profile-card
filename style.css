@@ -19,7 +19,7 @@
 }
 
 .profile-box {
-    background: #ff574a;
+    background: #000000;
     text-align: center;
     padding: 40px 90px;
     color: #fff;
@@ -70,10 +70,10 @@
 
 .profile-box button {
     background: #fff;
-    color: #ff574a;
+    color: #000000;
     border: none;
     outline: none;
-    box-shadow: 0 5px 10px rgba(244, 67, 54, 0.5);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
     padding: 15px 60px;
     cursor: pointer;
     border-radius: 30px;
